@@ -1,4 +1,5 @@
 # To create a module that can be imported into other Jupyter Notebooks or Python modules
+# For educational purpose only
 from sklearn.linear_model import LinearRegression as linreg
 from sklearn.metrics import mean_squared_error as mse
 
